@@ -1,0 +1,13 @@
+語音資料庫：
+https://huggingface.co/datasets/common_voice
+能線上下載檔案，不用下載到自己的電腦上，而且已經分割好 train, test, valid data 了
+----------------------
+資料庫官網：
+https://commonvoice.mozilla.org/zh-TW/datasets
+可以去了解一下語音資料是怎麼蒐集來的
+----------------------
+語音轉數字：
+https://huggingface.co/TalTechNLP/voxlingua107-epaca-tdnn
+別人做好的模型，能用來辨識語言，也能協助將語音檔轉換成數字
+（可以選擇要不要 embedding）
+（10000筆資料至少要跑80分鐘）
