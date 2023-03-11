@@ -11,7 +11,7 @@
   官方網站：[common voice](https://commonvoice.mozilla.org/zh-TW/datasets)  
   
 - 測試用  
-  內含多個程式碼，用於抓取檔案、串接資料、測試輸出結果等  
+  內含多個程式碼，用於抓取檔案、串接資料、測試輸出結果、與組員溝通等  
 
 - 測試用錄音  
   針對 G26_gradio.ipynb 進行測試的錄音檔（[詳細測試結果](https://docs.google.com/spreadsheets/d/1Fv-cWO_B7givWJH-OIAWjocNSOe71Gbi/edit?usp=share_link&ouid=110248902447125902030&rtpof=true&sd=true)）  
