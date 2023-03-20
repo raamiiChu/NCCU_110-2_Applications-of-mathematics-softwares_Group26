@@ -1,4 +1,4 @@
-# NCCU_110-2_Group26_Applications-of-mathematics-softwares
+# NCCU 110-2 Applications-of-mathematics-softwares Group26
 國立政治大學 110學年度 第2學期 數學軟體應用 第26組期末專案  
 授課教師: 蔡炎龍教授  
 
